@@ -5,8 +5,9 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to look at me in: syakhshiyahshi@gmail.com, {instragram}
   (https://www.instagram.com/shi34n_/), {telegram} (https://web.telegram.org/k/)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Beginner acount
+- ⚡ My plan: to be able to create a website that is very safe and secure so that the business or project can run well.
+  // look at you and look at me //
 
 <!---
 U5hi/U5hi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
