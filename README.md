@@ -7,7 +7,8 @@
   (https://www.instagram.com/shi34n_/), {telegram} (https://web.telegram.org/k/)
 - 😄 Beginner acount
 - ⚡ My plan: to be able to create a website that is very safe and secure so that the business or project can run well.
-  // look at you and look at me //
+-  🏝 im live : in riau
+ # ✨✨✨✨✨✨
 
 <!---
 U5hi/U5hi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
