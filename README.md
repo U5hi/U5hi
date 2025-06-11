@@ -20,7 +20,14 @@
 - 🧚🏼‍♀My ideals :health based business
 - #### Dream university: [Universitas Gadjah Mada](https://ugm.ac.id/id) | next..
   #✨✨have participated in the Quran recitation competition and science olympiad
+  
+</head>
+<body>
+  <h1>view</h1>
 
+  <img src="C:\Users\acer\Downloads\Telegram Desktop\photo_2025-06-08_13-33-17.jpg" alt="lihat gambar">
+</body>
+</html>
 
 <!---
 U5hi/U5hi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
