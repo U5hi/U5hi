@@ -25,9 +25,7 @@
 <body>
   <h1>view</h1>
 
-  <img src="C:\Users\acer\Downloads\Telegram Desktop\photo_2025-06-08_13-33-17.jpg" alt="lihat gambar">
-</body>
-</html>
+  ![mypicture](photo_2025-06-08_13-33-14.jpg)
 
 <!---
 U5hi/U5hi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
