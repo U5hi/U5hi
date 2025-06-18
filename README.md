@@ -23,9 +23,10 @@
   
 </head>
 <body>
-  <h1>view</h1>
+  <h1>my school𖠿</h1>
 
-  ![mypicture](photo_2025-06-08_13-33-14.jpg)
+  ![image](https://github.com/user-attachments/assets/a85b23cf-0a7e-4cb8-8528-a70783b0d241)
+
 
 <!---
 U5hi/U5hi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
